@@ -4,7 +4,7 @@
 
 Header parser microservice for Back End Development and APIs in [freeCodeCamp](https://www.freecodecamp.org/learn/).
 
-[Live Website](https://request-header-parser-microservice.chiefwoods.repl.co/)
+[Live Website](https://request-header-parser-microservice-chiefwoods.replit.app/)
 
 [Source Repository](https://github.com/ChiefWoods/request-header-parser-microservice)
 
@@ -45,6 +45,10 @@ git clone https://github.com/ChiefWoods/request-header-parser-microservice.git
 2. Install all dependencies
 ```
 npm install
+```
+3. Start development server
+```
+npm run start
 ```
 
 ## Issues
